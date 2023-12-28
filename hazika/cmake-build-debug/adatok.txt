@@ -1,0 +1,13 @@
+4
+123 Elsoalapanyag 0 10
+234 masodalapanyag 1950 2000
+12 test 123 30
+98776 lkjhgf 2 345
+3
+9 Felkesz1 10 0.9 2 123 3 234 5
+876 felkesz2 87 3 0
+34 felkesz 4 4 0
+3
+999 Termek1 10 90 10000 2 9 2 123 1
+888 termek2 299 10 8000 0
+43 termek2 2 6 10000 0
