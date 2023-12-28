@@ -1,6 +1,6 @@
 #  Manufacturing Management System
 
-## Introduction Manufacturing Management System is an innovative tool designed for managing a company's manufacturing process. This includes the storage and modification of product data, organizing production tasks, and generating financial reports.
+Introduction **Manufacturing Management System** is an innovative tool designed for managing a company's manufacturing process. This includes the storage and modification of product data, organizing production tasks, and generating financial reports.
 
 ## Key Features
 - **Materials Management:** Manages raw materials, semi-finished products, and final products.
